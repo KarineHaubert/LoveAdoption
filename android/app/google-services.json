@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29043164574",
+    "firebase_url": "https://projetouc16-4598d.firebaseio.com",
+    "project_id": "projetouc16-4598d",
+    "storage_bucket": "projetouc16-4598d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29043164574:android:7da475286f4589807c828f",
+        "android_client_info": {
+          "package_name": "com.example.loveadoption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29043164574-nmsf0o5c3d8vb57lgti3o3crbfc69bi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loveadoption",
+            "certificate_hash": "5278e95cd4ac7982983e688e040b61236f431ba7"
+          }
+        },
+        {
+          "client_id": "29043164574-at9ndu7jlb3f8fhmq5h58fdnak2tt5tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFV0Prj5ASLOG6_CGU8uYm4QVbzXG34Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29043164574-at9ndu7jlb3f8fhmq5h58fdnak2tt5tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
